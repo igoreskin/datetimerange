@@ -20,3 +20,21 @@
 .App-link {
   color: #09d3ac;
 }
+
+.picker {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+  align-content: space-between;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+}
+
+.box {
+  width: 130px;
+  height: 20px;
+  border: 1px solid black;
+}

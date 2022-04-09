@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "@wojtekmaj/react-datetimerange-picker": "github:wojtekmaj/react-datetimerange-picker",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "moment-timezone": "^0.5.27",
     "react": "^16.11.0",
     "react-datetime": "^2.16.3",
